@@ -12,3 +12,5 @@ names(one) = two
 one
 
 #vector functions
+#1. selecting values
+one[1:2] #vectors here are indexed from 1
